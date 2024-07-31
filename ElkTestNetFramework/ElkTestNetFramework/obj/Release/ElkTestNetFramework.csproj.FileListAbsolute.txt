@@ -1,0 +1,12 @@
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\ElkTestNetFramework.dll.config
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\ElkTestNetFramework.dll
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\ElkTestNetFramework.pdb
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\log4net.dll
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\Newtonsoft.Json.dll
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\log4net.xml
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\bin\Release\Newtonsoft.Json.xml
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\obj\Release\ElkTestNetFramework.csproj.AssemblyReference.cache
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\obj\Release\ElkTestNetFramework.csproj.CoreCompileInputs.cache
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\obj\Release\ElkTestN.D18330E0.Up2Date
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\obj\Release\ElkTestNetFramework.dll
+C:\CodeRepo\Dev\SharedSource\ElkTestNetFramework\ElkTestNetFramework\obj\Release\ElkTestNetFramework.pdb
