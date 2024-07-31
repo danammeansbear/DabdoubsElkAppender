@@ -10,6 +10,7 @@ log4net has a lot of configuration options and you should read the full document
 Get Started
 Start by creating a .NET project and open the app.config file. Modify it like the example below. (For ASP.NET projects, modify the web.config instead) Be sure to add the new <configSection> first, just below the opening <configuration> tag.
 
+```
 <?xml version="1.0"?>
 <configuration>
     <configSections>
@@ -33,6 +34,8 @@ Start by creating a .NET project and open the app.config file. Modify it like th
         </root>
     </log4net>
 </configuration>
+
+```
 Alternatively you can create your own configuration.xml file and then reference it directly in the AssemblyInfo.cs file (see below)
 
 Remember to set the properties of an external configuration.xml file so that it will be copied to the bin folder of your project. It must be present with the other assemblies.
@@ -59,7 +62,7 @@ Next we'll need to install the log4net.ElasticSearch Nuget package. Open your pa
 PS> Install-Package log4net.ElasticSearch`
 Get Logging
 Now that you've got log4net.ElasticSearch installed, you should be able to log your first message. Modify the Program.cs file accordingly:
-
+```
 using log4net;
 
 namespace ConsoleApplication1
@@ -74,8 +77,12 @@ namespace ConsoleApplication1
         }
     }
 }
+
+```
 It is not strictly required to setup an index on Elasticsearch ahead of time, one will be created automatically when you log messages to the server. Index and template creation are covered in the Elasticsearch documentation.
 here is an example log
+```
+
 {
 	"_index": "log-2016.02.12",
 	"_type": "logEvent",
@@ -120,3 +127,4 @@ here is an example log
 		"hostName": "JTOTO01"
 	}
 }
+````
